@@ -36,3 +36,11 @@
 
 # git clone <link_to_repository> - скачивание/клонировани указанного репозитория
 
+
+# .gitignore -файл со списками диретори/файлов для игнорирования git
+
+# 
+import os
+
+print(os.environ['PASSWORD'])
+print(os.environ['USERNAME'])
